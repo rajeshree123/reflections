@@ -1,1 +1,4 @@
 why you would want to create a remote repository rather then keeping the work local?
+To make my work available to other people and to share my knowledge .
+and to tell my thoughts if any people are working on the same concept
+and if the file size is big than we can store it in cloud easily
