@@ -3,4 +3,10 @@ what happens when you initialize a repository? why do you need to do it
 when we inititalize a repository a new .git file will be created
 and if we type the the comand git log we won't get any commits since there will not be any changes made to it 
 since it was created at that time and if we add anything to that repository than only we can get a commit message.
-To initialize a repository we only have to type 'git init' in  git bash
+To initialize a repository we only have to type 'git init' in  git bash.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is where we are going to commit changes.
+whatever the changes we have committed will be displayed in the staging area
