@@ -1,0 +1,1 @@
+why you would want to create a remote repository rather then keeping the work local?
