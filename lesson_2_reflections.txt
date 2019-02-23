@@ -36,3 +36,11 @@ where the child and master branch are merged using the command 'git merge master
 which contains the changes from the branch and master.
 Diagram representation is needed because we need to understand which all branches were merged so we get the clear meaning of what changes 
 were introduced in the main or merging of two branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+If there is no conflict between two branches than the merging operation is carried out smoothly and within less time.
+or else we have to manually check whether the changes should be kept from one branch or the other.
+
+If we do merging always manually than the time consumed will be more because in simple cases like when there is no conflict it wil be merged
+directly.which will be ddone in less time.
