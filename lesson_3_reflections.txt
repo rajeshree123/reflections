@@ -2,3 +2,8 @@ why you would want to create a remote repository rather then keeping the work lo
 To make my work available to other people and to share my knowledge .
 and to tell my thoughts if any people are working on the same concept
 and if the file size is big than we can store it in cloud easily
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because in remote repository the changes will be however saved but if we wan't it in your computer you can manually pull it from the 
+remote repository when ever you wan't rather than automatically backing up all the commits.
