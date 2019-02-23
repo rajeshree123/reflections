@@ -16,4 +16,13 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 we use commands like 'git diff --staged'
 and 'git diff' and 'git diff commit1 commit2' to check how many changes we have made to the file and we then have to commit the changes
-using 'git commit' command and to check what changes we have introduced use 'git log' command
+using 'git commit' command and to check what changes we have introduced use 'git log' command.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branching is helpful when you want to test a feature you want to add but you are not sure whether this feature will work or not.
+so in this case you make a branch of the main i.e.,master ,since we don't want to make changes to the master directly ,we only want to
+test the feature.
+so in this manner branches help in not manipulating the actual main data of the file.we can create a branch of the master and make changes or
+any test you want to make.
