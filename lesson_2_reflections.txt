@@ -10,3 +10,10 @@ How is the staging area different from the working directory and the repository?
 
 staging area is where we are going to commit changes.
 whatever the changes we have committed will be displayed in the staging area
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+we use commands like 'git diff --staged'
+and 'git diff' and 'git diff commit1 commit2' to check how many changes we have made to the file and we then have to commit the changes
+using 'git commit' command and to check what changes we have introduced use 'git log' command
