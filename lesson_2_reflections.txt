@@ -26,3 +26,13 @@ so in this case you make a branch of the main i.e.,master ,since we don't want t
 test the feature.
 so in this manner branches help in not manipulating the actual main data of the file.we can create a branch of the master and make changes or
 any test you want to make.
+
+
+what is the result of merging two branches together?why do we represent it in the diagram the way we do?
+
+let's say if we want to change in the we are not sure whether it will work or not so as said we create a child branch
+so after the change is applied and we want to add it to the main file i.e., master ,so here merging of branches comes into picture
+where the child and master branch are merged using the command 'git merge master <child branch name>'.so the result will be the marged file 
+which contains the changes from the branch and master.
+Diagram representation is needed because we need to understand which all branches were merged so we get the clear meaning of what changes 
+were introduced in the main or merging of two branches.
