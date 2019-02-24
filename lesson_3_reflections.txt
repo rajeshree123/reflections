@@ -7,3 +7,15 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Because in remote repository the changes will be however saved but if we wan't it in your computer you can manually pull it from the 
 remote repository when ever you wan't rather than automatically backing up all the commits.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks are used when we want to tranfer some others repository into our own repository in the git hub account otherwise we would have to do it
+manually as like we have to clone the erpository first into the user computer and make the changes and then push what ever changes we have done
+back to the github account.
+
+clones are used to bring the entire repository into the computer .
+
+Branches are used when you want to make a change to the repository but you are not sure about whether it will work or not so first you create an 
+other branch other than master branch so that the changes will not be directly effect the master so after that we can directly merge the branches 
+if there is no conflict so that we will not be in trouble.
